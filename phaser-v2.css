@@ -1,0 +1,13 @@
+/* Phaser – Biltoki – jeu complet (v2) */
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be038d135c8d0a95fa5ec_Phaser-Hairline.woff2") format("woff2");font-weight:100;font-style:normal;font-display:swap}
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be038e47fefa17f138a2f_Phaser-HairlineItalic.woff2") format("woff2");font-weight:100;font-style:italic;font-display:swap}
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be0382f6c67225a1ffaf0_Phaser-Thin.woff2") format("woff2");font-weight:200;font-style:normal;font-display:swap}
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be03867590f8f897dfd9d_Phaser-ThinItalic.woff2") format("woff2");font-weight:200;font-style:italic;font-display:swap}
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be038f420f09bfe936774_Phaser-Light.woff2") format("woff2");font-weight:300;font-style:normal;font-display:swap}
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be0387fa929e4684abec6_Phaser-LightItalic.woff2") format("woff2");font-weight:300;font-style:italic;font-display:swap}
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be0382a67c5d201830ad1_Phaser-Regular.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Phaser";src:url("Phaser-Italic.woff2") format("woff2");font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be038e5edcd3856c3e25a_Phaser-Medium.woff2") format("woff2");font-weight:500;font-style:normal;font-display:swap}
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be038479064849b4a9f59_Phaser-MediumItalic.woff2") format("woff2");font-weight:500;font-style:italic;font-display:swap}
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be0382bbe983f624d2c87_Phaser-Bold.woff2") format("woff2");font-weight:600 900;font-style:normal;font-display:swap}
+@font-face{font-family:"Phaser";src:url("https://cdn.prod.website-files.com/69032f7aa92da3854968dc83/6a3be038c1b71e3e0debca5d_Phaser-BoldItalic.woff2") format("woff2");font-weight:600 900;font-style:italic;font-display:swap}
